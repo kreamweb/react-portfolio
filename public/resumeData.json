@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Emanuela Castorina",
+    "occupation": "Web Developer - WordPress and WooCommerce plugin developer",
+    "description": "",
+    "image": "manu.jpg",
+    "bio": "My name is Emanuela, I'm a Web Developer. Currently I'm working at YITHEMES as a WordPress and WooCommerce plugin developer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
+    "email": "emanuela@yopmail.com",
     "phone": "+44 12 345 6789",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "via Vai",
+      "city": "Catania",
+      "state": "Italy",
+      "zip": "95100"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
@@ -65,7 +65,7 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "PHP",
         "level": "100%"
       },
       {
@@ -74,19 +74,23 @@
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "70%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "SQL",
+        "level": "60%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Javavascript",
+        "level": "60%"
+      },
+      {
+        "name": "React",
+        "level": "30%"
       }
     ]
   },
